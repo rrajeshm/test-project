@@ -1,0 +1,29 @@
+
+config_version: 4
+
+first_comment: |
+    This is automatically generated comment that should help you pass code review and delivery. Please review the checklist below
+    - [ ] Did you rebase on to origin/master, rather than merge?
+    - [ ] Did you run the rebase branch on a good system?
+
+reviews:
+    NIMBUS_REVIEWED:
+        users:
+            - grarthur
+            - cookg
+            - shaffek
+            - videokar
+            - rkuchuri
+            - pakoye
+    REPUBLIC_CRUISER_REVIEWD:
+        users:
+            - bkampall
+            - ddadi
+            - gungunas
+            - makkadr
+            - moulidch
+            - nasadasi
+            - nikuppus
+            - rabsahu
+            - rajara
+            - rajsivar

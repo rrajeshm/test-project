@@ -1,0 +1,19 @@
+# Packages used by the test framework
+pytest==4.4.1
+pytest-xdist==1.22.2
+mongoengine==0.15.0
+paramiko==2.4.2
+cryptography==2.4.2
+PyYAML
+requests
+decorator
+kubernetes
+pyral
+netifaces
+
+# Packages used by HLS Checker v0.2.1
+m3u8
+pycrypto
+bitstring
+expiringdict
+requests

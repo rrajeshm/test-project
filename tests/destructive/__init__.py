@@ -1,0 +1,2 @@
+MCE_JOB_IDS = {}
+COS_JOB_IDS = {}

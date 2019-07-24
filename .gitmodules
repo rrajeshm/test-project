@@ -1,0 +1,4 @@
+[submodule "conf"]
+	path = conf
+	url = https://github3.cisco.com/cdvr-chennai/dp_labs.git
+	# url = git@github3.cisco.com:cdvr-chennai/dp_labs.git
