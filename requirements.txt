@@ -3,7 +3,7 @@ pytest==4.4.1
 pytest-xdist==1.22.2
 mongoengine==0.15.0
 paramiko==2.4.2
-cryptography==2.4.2
+cryptography==3.2
 PyYAML
 requests
 decorator
